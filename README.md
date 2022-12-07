@@ -1,1 +1,1 @@
-# EEE-350-Final-Project
+# EEE 350 Final Project
